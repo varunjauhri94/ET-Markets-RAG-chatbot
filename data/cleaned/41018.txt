@@ -2,7 +2,7 @@
 Bank of India Flexi Cap Fund  (Direct Plan - Growth)
 AMC: Bank of India MF | Category: Flexi Cap
 Source: https://economictimes.indiatimes.com/bank-of-india-flexi-cap-fund-direct-plan/mffactsheet/schemeid-41018.cms
-Last updated from sources: 2026-10-17
+Last updated from sources: 2026-10-18
 ======================================================================
 
 [Fund Details]
@@ -20,8 +20,8 @@ Fund Size: Rs. 3,098.01 Cr
 
 [Key Facts]
 Current NAV: The Current Net Asset Value of the Bank of India Flexi Cap Fund - Direct Plan as of Oct 16, 2026 is Rs 41.39 for Growth option of its Direct plan.
-Fund Size: The Bank of India Flexi Cap Fund - Direct Plan currently holds Assets under Management worth of Rs 2786.4 crore as on Jul 31, 2026.
-Expense ratio: The expense ratio of the fund is 0.87% for Direct plan as on Oct 09, 2026.
+Fund Size: The Bank of India Flexi Cap Fund - Direct Plan currently holds Assets under Management worth of Rs 3098.01 crore as on Jul 31, 2026.
+Expense ratio: The expense ratio of the fund is 0.87% for Direct plan as on Oct 16, 2026.
 Exit Load: Bank of India Flexi Cap Fund - Direct Plan shall attract an Exit Load, "Exit Load for units in excess of 10% of the investment,1% will be charged for redemption within 3 months."
 Minimum Investment: Minimum investment required is Rs 5000 and minimum additional investment is Rs 1000. Minimum SIP investment is Rs 1000.
 
@@ -29,5 +29,5 @@ Minimum Investment: Minimum investment required is Rs 5000 and minimum additiona
 Investment Objective - The scheme seeks to generate long term capital appreciation by investing predominantly in equity and equity-related securities across various market capitalisation.
 
 [Performance (reference only - not for advice)]
-Trailing/Category Returns: Its trailing returns over different time periods are: 8.24% (1yr), 18.64% (3yr), 15.48% (5yr) and 25.38% (since launch). Whereas, Category returns for the same time duration are: -2.34% (1yr), 10.05% (3yr) and 8.37% (5yr).
+Trailing/Category Returns: Its trailing returns over different time periods are: 7.81% (1yr), 17.89% (3yr), 14.78% (5yr) and 25.28% (since launch). Whereas, Category returns for the same time duration are: -2.41% (1yr), 9.97% (3yr) and 8.12% (5yr).
 Return Since Launch: 25.28%
